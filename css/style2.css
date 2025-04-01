@@ -156,3 +156,9 @@ body{
     transform: scale(1.03);
     transition: all 1 ease;
 }
+
+@media (max-width: 600px){
+    .card-container{
+        width: 100%;
+    }
+}
