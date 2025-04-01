@@ -42,7 +42,6 @@ body{
 
 .contact{
     width: 900px;
-    height: 500px;
     background-color: bisque;
     border-radius: 8px;
     overflow: hidden;
@@ -52,7 +51,6 @@ body{
 
 .chef{
     width: 900px;
-    height: 500px;
     background-color: bisque;
     border-radius: 8px;
     overflow: hidden;
